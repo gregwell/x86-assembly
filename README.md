@@ -4,4 +4,4 @@
 
 - all programs are written in 32-bit x86 assembly language (for the x86 family of microprocessors)
 
-- course notes are available at [this link](https://github.com/gregwell/university-notes/blob/main/polish/old-school-style-notes/architektury-komputerow.pdf) (in Polish).
+- course notes are available at [this link](https://github.com/gregwell/university-notes/blob/main/polish/old-school-style-notes/architektury-komputerow/architektury-komputerow.pdf) (in Polish).
